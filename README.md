@@ -1,6 +1,6 @@
 # php_tasks
-    only first time
-#  git clone https://github.com/RamiSalmMahuammed/php_tasks.git
+only first time
+#     git clone https://github.com/RamiSalmMahuammed/php_tasks.git
 # 1- cd php_tasks
 # 2- git branch -a
 # 3- git checkout -b "branchname"
